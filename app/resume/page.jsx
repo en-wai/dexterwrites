@@ -19,7 +19,7 @@ const about = {
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Luke Coleman",
+      fieldValue: "Dexter Coleman",
     },
     {
       fieldName: "Phone",
@@ -31,7 +31,7 @@ const about = {
     },
     {
       fieldName: "Skype",
-      fieldValue: "luke.01",
+      fieldValue: "Dexter.01",
     },
     {
       fieldName: "Nationality",
@@ -39,7 +39,7 @@ const about = {
     },
     {
       fieldName: "Email",
-      fieldValue: "luke.01@gmail.com",
+      fieldValue: "Dexter.01@gmail.com",
     },
     {
       fieldName: "Freelance",
