@@ -57,40 +57,36 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "A decade of progressive leadership in training, operations, and internal security under the Ghana Armed Forces and United Nations missions in DRC and Lebanon.",
   items: [
     {
-      company: "Tech Solutions Inc.",
-      position: "Full Stack Developer",
-      duration: "2022 - Present",
+      company: "155 Armoured Regiment",
+      position: "Acting Second in Command",
+      duration: "Nov 2024 – Present",
     },
     {
-      company: "Web Design Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
+      company: "Armour Training School, Sunyani",
+      position: "Course Commander",
+      duration: "Apr 2021 – May 2021",
     },
     {
-      company: "E-commerce Startup",
-      position: "Freelance Web Developer",
-      duration: "2020 - 2021",
+      company: "UN Mission in DRC",
+      position: "Officer Commanding, BMR",
+      duration: "Mar 2019 – Nov 2020",
     },
     {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
-      duration: "2019 - 2020",
+      company: "Army Recruit Training School",
+      position: "Platoon Commander, Charlie Coy",
+      duration: "Feb 2017 – Mar 2019",
     },
     {
-      company: "Digital Agency",
-      position: "UI/UX Designer",
-      duration: "2018 - 2019",
-    },
-    {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017 - 2018",
+      company: "UN Mission in DRC",
+      position: "Troop Leader, BMR",
+      duration: "Jan 2016 – Jan 2017",
     },
   ],
 };
+
 
 // education data
 const education = {
