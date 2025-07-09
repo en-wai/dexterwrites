@@ -55,7 +55,7 @@ const experience = {
     },
     {
       company: "Army Recruit Training Sch",
-      position: "Platoon Commander, Charlie Coy",
+      position: "Platoon Commander/Instructor",
       duration: "Feb 2017 – Mar 2019",
     },
     {
@@ -73,17 +73,17 @@ const education = {
     "Blending tactical military education with tech and strategic training to drive operational and digital excellence.",
   items: [
     {
-      institution: "Army Combat Training Sch, Teshie",
+      institution: "Army Combat Training Sch",
       degree: "Combat Team Commanders Course 2-24",
       duration: "Nov 2024",
     },
     {
-      institution: "GAF Command & Staff College, Teshie",
+      institution: "GAF Command & Staff College",
       degree: "Pass Junior Staff Course (JSC)",
       duration: "May 2024",
     },
     {
-      institution: "Ghana Military Academy, Teshie",
+      institution: "Ghana Military Academy",
       degree: "Diploma in Military Studies",
       duration: "Jan 2014",
     },
@@ -94,7 +94,7 @@ const education = {
     },
     {
       institution: "ALX Africa",
-      degree: "Professional Certificates: Software Engineering (Back-end)",
+      degree: "Professional Cert: Software Engineering (Back-end)",
       duration: "2023 - 2025",
     },
   ],
